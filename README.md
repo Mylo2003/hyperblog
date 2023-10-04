@@ -10,5 +10,8 @@ Un blog increíble sobre el aprendizaje de Camilo!
 * El verdadero amor por las buenas prácticas
 * Preparame para un entorno laboral
 * Ser un programador completo
+* Seguir mejorando
+* Gran aprendizaje
 
+ 
 Cabe resaltar que esto **Esto es una prueba del readme**.  Con objetivo de aprender cómo editar este tipos de archivos MD.
